@@ -1,6 +1,8 @@
 *.rbc
 capybara-*.html
+/.vscode/
 .rspec
+/test
 /log
 /tmp
 /db/*.sqlite3
